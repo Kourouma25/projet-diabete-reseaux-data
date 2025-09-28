@@ -1,7 +1,7 @@
 import pandas as pd
 import requests
 import pytest
-import joblib
+
 
 # Charger les données de test
 data = pd.read_csv('patient_a_tester.csv')
